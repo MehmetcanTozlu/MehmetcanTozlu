@@ -4,4 +4,4 @@ Welcome to my GitHub! I specialize in **LLMs, Generative AI, and Image Generatio
 
 - 🔭 I’m currently working on: **LLM fine-tuning & Image Gen Models**
 - 🎯 Interests: **AI Agents, Stable Diffusion, RAG, LoRA, SDXL, and more**
-- 📫 How to reach me: [Twitter](https://twitter.com/yourhandle) | [HuggingFace](https://huggingface.co/mehmettozlu)
+- 📫 How to reach me: [HuggingFace](https://huggingface.co/mehmettozlu)
