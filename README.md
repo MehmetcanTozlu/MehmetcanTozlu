@@ -1,6 +1,6 @@
 # 🚀 Mehmetcan Tozlu | AI & ML Researcher
 
-Welcome to my GitHub! I specialize in **LLMs, Generative AI, and Image Generation**. Passionate about training **custom AI models**, working on **LoRA**, **Dreambooth**, **FLUX**, **FLUX Train**, **RAG**, and **ControlNet** to push AI capabilities forward.
+Welcome to my GitHub! I specialize in **LLMs, Generative AI, and Image Generation**. Passionate about training **custom AI models**, working on **LoRA**, **Dreambooth**, **FLUX**, **FLUX Train**, **LLMs**, **AI Agent** and **RAG** to push AI capabilities forward.
 
 - 🔭 I’m currently working on: **LLM fine-tuning & Image Gen Models**
 - 🎯 Interests: **Stable Diffusion, SDXL, SD, SD3.5, FLUX, AI Agents, RAG, LoRA, Dreambooth and more**
