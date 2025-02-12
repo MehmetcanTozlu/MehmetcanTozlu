@@ -17,3 +17,6 @@ Welcome to my GitHub! I specialize in **LLMs, Generative AI, and Image Generatio
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Stable Diffusion](https://img.shields.io/badge/StableDiffusion-FFD700?style=for-the-badge&logo=stablediffusion&logoColor=black)
+
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
+![GitHub Followers](https://img.shields.io/github/followers/mehmetcantozlu?style=social)
