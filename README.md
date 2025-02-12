@@ -20,3 +20,9 @@ Welcome to my GitHub! I specialize in **LLMs, Generative AI, and Image Generatio
 
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
 ![GitHub Followers](https://img.shields.io/github/followers/mehmetcantozlu?style=social)
+
+### 🌎 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetcan-tozlu/)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/mehmettozlu)
+
+![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
