@@ -20,10 +20,10 @@ Welcome to my GitHub! I specialize in **LLMs, Generative AI, and Image Generatio
 ![CivitAI](https://img.shields.io/badge/CivitAI-1E90FF?style=for-the-badge&logo=civitai&logoColor=white)
 
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/mehmettozlu)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=wiroai-huggingface&logoColor=black)](https://huggingface.co/WiroAI)
+[![WiroAI - Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/WiroAI)
 ![GitHub Followers](https://img.shields.io/github/followers/mehmetcantozlu?style=social)
 [![CivitAI](https://img.shields.io/badge/CivitAI-1E90FF?style=for-the-badge&logo=civitai&logoColor=white)](https://civitai.com/user/ctz00)
-[![CivitAI](https://img.shields.io/badge/CivitAI-1E90FF?style=for-the-badge&logo=wiroai-civitai&logoColor=white)](https://civitai.com/user/wiroai)
+[![WiroAI - CivitAI](https://img.shields.io/badge/CivitAI-1E90FF?style=for-the-badge&logo=civitai&logoColor=white)](https://civitai.com/user/wiroai)
 
 
 ### 🌎 Connect with me  
