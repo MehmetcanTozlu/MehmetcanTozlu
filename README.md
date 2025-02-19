@@ -17,7 +17,6 @@ Welcome to my GitHub! I specialize in **LLMs, Generative AI, and Image Generatio
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Stable Diffusion](https://img.shields.io/badge/StableDiffusion-FFD700?style=for-the-badge&logo=stablediffusion&logoColor=black)
-![CivitAI](https://img.shields.io/badge/CivitAI-1E90FF?style=for-the-badge&logo=civitai&logoColor=white)
 
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/mehmettozlu)
 [![CivitAI](https://img.shields.io/badge/CivitAI-1E90FF?style=for-the-badge&logo=civitai&logoColor=white)](https://civitai.com/user/ctz00)
