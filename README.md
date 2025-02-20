@@ -31,6 +31,20 @@ Welcome to my GitHub! I specialize in **LLMs, Generative AI, and Image Generatio
 ![Automatic1111](https://img.shields.io/badge/Automatic1111-111111?style=for-the-badge&logo=python&logoColor=white)
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetcantozlu&theme=tokyonight" alt="GitHub Streak" />
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=mehmetcantozlu&show_icons=true&theme=tokyonight&hide=contribs,issues" alt="GitHub Stats" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcantozlu&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
+
+<!-- GitHub Profile Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=mehmetcantozlu&theme=onedark&margin-w=15&no-bg=true" alt="GitHub Trophy" />
+
+<!-- GitHub Contributions Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetcantozlu&theme=tokyo-night" alt="GitHub Contributions Graph" />
 
 
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/mehmettozlu)
