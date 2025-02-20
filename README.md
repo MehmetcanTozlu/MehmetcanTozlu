@@ -12,6 +12,22 @@ Welcome to my GitHub! I specialize in **LLMs, Generative AI, and Image Generatio
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetcantozlu&theme=radical" alt="GitHub Streak" />
 </p>
 
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetcantozlu&theme=radical" alt="GitHub Streak" />
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=mehmetcantozlu&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcantozlu&layout=compact&theme=radical" alt="Top Languages" />
+
+<!-- GitHub Profile Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=mehmetcantozlu&theme=radical&margin-w=15" alt="GitHub Trophy" />
+
+<!-- GitHub Contributions Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetcantozlu&theme=radical" alt="GitHub Contributions Graph" />
+
+
 ### 🛠 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
