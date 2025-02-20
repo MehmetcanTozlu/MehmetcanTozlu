@@ -33,22 +33,3 @@ Welcome to my GitHub! I specialize in **LLMs, Generative AI, and Image Generatio
 ### 🌎 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetcan-tozlu/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcantozlu@gmail.com)
-
-![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
-## 🚀 Tech & AI Enthusiast  
-
-### 🔹 Minimalist El Sallama GIF'leri  
-![Wave 1](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)  
-![Wave 2](https://media.giphy.com/media/l0HlJ3XQq4ThG7eiE/giphy.gif)  
-![Wave 3](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)  
-
-### 🤖 Teknoloji/Yapay Zeka Temalı GIF'ler  
-![Tech 1](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)  
-![Tech 2](https://media.giphy.com/media/f9jD9u1GGJgYw/giphy.gif)  
-![Tech 3](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)  
-
-### 🖥️ GitHub Temasına Uygun GIF'ler  
-![GitHub 1](https://media.giphy.com/media/Y1M2joIlpyKic/giphy.gif)  
-![GitHub 2](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)  
-![GitHub 3](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)  
