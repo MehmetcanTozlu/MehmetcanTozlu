@@ -4,7 +4,7 @@ Welcome to my GitHub! I specialize in **LLMs, Generative AI, and Image Generatio
 
 - 🔭 I’m currently working on: **AI Agents, RAG, Image Generative and Image Generative Models Fine Tunes**
 - 🎯 Interests: **Stable Diffusion, SDXL, SD, SD3.5, FLUX, AI Agents, RAG, LLMs, LoRA, Dreambooth and more**
-- 📫 How to reach me: [HuggingFace](https://huggingface.co/mehmettozlu) [LinkedIn](https://www.linkedin.com/in/mehmetcan-tozlu/) [Email](mailto:mcantozlu@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mehmetcan-tozlu/) [Email](mailto:mcantozlu@gmail.com)
 
 ### ⚡ GitHub Stats  
 <p align="center">
