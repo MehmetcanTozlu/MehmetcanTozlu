@@ -9,14 +9,11 @@ Welcome to my GitHub! I specialize in **LLMs, Generative AI, and Image Generatio
 ### ⚡ GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehmetcantozlu&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetcantozlu&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetcantozlu&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <!-- GitHub Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetcantozlu&theme=radical" alt="GitHub Streak" />
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=mehmetcantozlu&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcantozlu&layout=compact&theme=radical" alt="Top Languages" />
