@@ -23,7 +23,6 @@ Welcome to my GitHub! I specialize in **LLMs, Generative AI, and Image Generatio
 ![Automatic1111](https://img.shields.io/badge/Automatic1111-111111?style=for-the-badge&logo=python&logoColor=white)
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
-
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/mehmettozlu)
 [![CivitAI](https://img.shields.io/badge/CivitAI-1E90FF?style=for-the-badge&logo=civitai&logoColor=white)](https://civitai.com/user/ctz00)
 [![Hugging Face](https://img.shields.io/badge/WiroAI%20--%20Huggingface-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/WiroAI)
