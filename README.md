@@ -15,6 +15,7 @@ Welcome to my GitHub! I specialize in **LLMs, Generative AI, and Image Generatio
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetcantozlu&theme=github-dark&hide_border=true" alt="GitHub Contributions Graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcantozlu&layout=compact&theme=dracula&langs_count=8" alt="Top Languages" />
 
 
 ### 🛠 Tech Stack  
