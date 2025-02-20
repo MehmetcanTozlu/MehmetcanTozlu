@@ -14,7 +14,7 @@ Welcome to my GitHub! I specialize in **LLMs, Generative AI, and Image Generatio
   <img src="https://github-profile-trophy.vercel.app/?username=mehmetcantozlu&theme=radical&margin-w=15" alt="GitHub Trophy" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mehmetcantozlu&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=mehmetcantozlu&theme=matrix&no-frame=true&row=2&column=4" alt="GitHub Trophy" />
 
 
 ### 🛠 Tech Stack  
