@@ -14,10 +14,6 @@ Welcome to my GitHub! I specialize in **LLMs, Generative AI, and Image Generatio
   <img src="https://github-profile-trophy.vercel.app/?username=mehmetcantozlu&theme=radical&margin-w=15" alt="GitHub Trophy" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetcantozlu&theme=github-dark&hide_border=true" alt="GitHub Contributions Graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcantozlu&layout=compact&theme=dracula&langs_count=8" alt="Top Languages" />
-
-
 ### 🛠 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
