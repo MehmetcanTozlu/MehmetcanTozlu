@@ -18,6 +18,7 @@ Welcome to my GitHub! I specialize in **LLMs, Generative AI, and Image Generatio
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge&logo=HuggingFace&logoColor=white)
 ![Diffusers](https://img.shields.io/badge/Diffusers-FF6F00?style=for-the-badge&logo=pytorch&logoColor=yellow)
 ![Langchain](https://img.shields.io/badge/Langchain-005ECC?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Automatic1111](https://img.shields.io/badge/Automatic1111-111111?style=for-the-badge&logo=python&logoColor=white)
