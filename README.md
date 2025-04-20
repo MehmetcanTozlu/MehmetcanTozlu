@@ -1,4 +1,4 @@
-# 🚀 Mehmetcan Tozlu | AI & ML Researcher
+# 🚀 Mehmetcan Tozlu | AI & ML Engineer
 
 Welcome to my GitHub! I specialize in **LLMs, Generative AI, and Image Generation**. Passionate about training **custom AI models**, working on **LoRA**, **Dreambooth**, **FLUX**, **FLUX Train**, **LLMs**, **AI Agent** and **RAG** to push AI capabilities forward.
 
