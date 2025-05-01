@@ -21,9 +21,10 @@ Welcome to my GitHub! I specialize in **Generative AI**. Passionate about traini
 ![Transformers](https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge&logo=HuggingFace&logoColor=white)
 ![Diffusers](https://img.shields.io/badge/Diffusers-FF6F00?style=for-the-badge&logo=pytorch&logoColor=yellow)
 ![Langchain](https://img.shields.io/badge/Langchain-005ECC?style=for-the-badge&logo=chainlink&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white)
 ![Automatic1111](https://img.shields.io/badge/Automatic1111-111111?style=for-the-badge&logo=python&logoColor=white)
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-
+![SmolAgents](https://img.shields.io/badge/SmolAgents-6E40C9?style=for-the-badge&logo=semantic-release&logoColor=white)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/mehmettozlu)
 [![CivitAI](https://img.shields.io/badge/CivitAI-1E90FF?style=for-the-badge&logo=civitai&logoColor=white)](https://civitai.com/user/ctz00)
 [![Hugging Face](https://img.shields.io/badge/WiroAI%20--%20Huggingface-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/WiroAI)
