@@ -8,11 +8,31 @@ Welcome to my GitHub! I specialize in **Generative AI**. Passionate about traini
 
 ### ⚡ GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetcantozlu&show_icons=true&theme=radical&v=1" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=mehmetcantozlu&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcantozlu&layout=compact&theme=radical&v=1" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=mehmetcantozlu&theme=radical&margin-w=15&v=1" alt="GitHub Trophy" />
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mehmetcantozlu&show_icons=true&theme=radical&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
+
+  <!-- GitHub Streak -->
+  <img
+    src="https://streak-stats.demolab.com?user=mehmetcantozlu&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mehmetcantozlu&layout=compact&theme=radical&cache_seconds=86400"
+    alt="Top Languages"
+  />
+
+  <!-- GitHub Trophy -->
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=mehmetcantozlu&theme=radical&margin-w=15&no-frame=true"
+    alt="GitHub Trophy"
+  />
 </p>
+
 
 ### 🛠 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
