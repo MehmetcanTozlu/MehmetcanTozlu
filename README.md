@@ -1,4 +1,4 @@
-# 🚀 Mehmetcan Tozlu | AI ML GenAI Engineer
+# 🚀 Mehmetcan Tozlu | AI, ML, GenAI Engineer
 
 Welcome to my GitHub! I specialize in **Generative AI**. Passionate about training **custom AI models**, working on **LoRA**, **Dreambooth**, **FLUX**, **FLUX Train**, **LLMs**, **AI Agent** and **RAG** to push AI capabilities forward.
 
