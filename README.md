@@ -7,12 +7,10 @@ Welcome to my GitHub! I specialize in **Generative AI**. Passionate about traini
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mehmetcan-tozlu/) [Email](mailto:mcantozlu@gmail.com)
 
 ### ⚡ GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetcantozlu&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=mehmetcantozlu&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcantozlu&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=mehmetcantozlu&theme=radical&margin-w=15" alt="GitHub Trophy" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehmetcantozlu&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mehmetcantozlu&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcantozlu&layout=compact&theme=radical)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mehmetcantozlu&theme=radical&margin-w=15)
 
 
 
