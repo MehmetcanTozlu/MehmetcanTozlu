@@ -14,6 +14,8 @@ Welcome to my GitHub! I specialize in **Generative AI**. Passionate about traini
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mehmetcantozlu&theme=radical)
 
+![GitHub Metrics](https://metrics.lecoq.io/mehmetcantozlu?theme=radical)
+
 
 
 ### 🛠 Tech Stack  
