@@ -8,13 +8,11 @@ Welcome to my GitHub! I specialize in **Generative AI**. Passionate about traini
 
 ### ⚡ GitHub Stats
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehmetcantozlu&theme=radical)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehmetcantozlu&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mehmetcantozlu&theme=radical)
-
-![GitHub Metrics](https://metrics.lecoq.io/mehmetcantozlu?theme=radical)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehmetcantozlu&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehmetcantozlu&theme=radical" alt="Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mehmetcantozlu&theme=radical" alt="GitHub Streak" />
+</p>
 
 
 
