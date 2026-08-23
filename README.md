@@ -13,7 +13,6 @@ Welcome to my GitHub! I specialize in **Generative AI**. Passionate about traini
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehmetcantozlu&theme=radical" alt="Stats" />
   <img src="https://streak-stats.demolab.com/?user=mehmetcantozlu&theme=radical&v=2" alt="GitHub Streak" />
 </p>
-![GitHub Streak](https://streak-stats.demolab.com/?user=mehmetcantozlu&theme=radical&v=2)
 
 
 ### 🛠 Tech Stack  
