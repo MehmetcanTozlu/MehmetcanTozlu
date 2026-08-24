@@ -1,6 +1,6 @@
 # 🚀 Mehmetcan Tozlu | AI & ML & GenAI Engineer
 
-Welcome to my GitHub! I specialize in **Generative AI**. Passionate about training **custom AI models**, working on **LoRA**, **Dreambooth**, **FLUX**, **FLUX Train**, **LLMs**, **AI Agent** and **RAG** to push AI capabilities forward.
+Welcome to my GitHub! I specialize in **Generative AI**. Passionate about training **custom AI models**, working on **Fine-Tune**, **QLoRA**, **Prepare Train Dataset**, **SFT**, **CFT**, **LoRA**, **Dreambooth**, **Vision Models**, **FLUX**, **FLUX Train**, **LLMs**,  **AI Agent**, **RAG** and etc. to push AI capabilities forward.
 
 - 🔭 I’m currently working on: **AI Agents, RAG, Image Generative and Image Generative Models Fine Tunes**
 - 🎯 Interests: **Stable Diffusion, SDXL, SD, SD3.5, FLUX, AI Agents, RAG, LLMs, LoRA, Dreambooth and more**
@@ -28,7 +28,7 @@ Welcome to my GitHub! I specialize in **Generative AI**. Passionate about traini
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/mehmettozlu)
 [![CivitAI](https://img.shields.io/badge/CivitAI-1E90FF?style=for-the-badge&logo=civitai&logoColor=white)](https://civitai.com/user/ctz00)
-[![Hugging Face](https://img.shields.io/badge/WiroAI%20--%20Huggingface-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/WiroAI)
+[![Hugging Face](https://img.shields.io/badge/Reference%20--%20Huggingface-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/WiroAI)
 [![CivitAI](https://img.shields.io/badge/Reference%20--%20CivitAI-1E90FF?style=for-the-badge&logo=civitai&logoColor=white)](https://civitai.com/user/wiroai)
 ![GitHub Followers](https://img.shields.io/github/followers/mehmetcantozlu?style=social)
 
