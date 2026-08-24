@@ -29,7 +29,7 @@ Welcome to my GitHub! I specialize in **Generative AI**. Passionate about traini
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/mehmettozlu)
 [![CivitAI](https://img.shields.io/badge/CivitAI-1E90FF?style=for-the-badge&logo=civitai&logoColor=white)](https://civitai.com/user/ctz00)
 [![Hugging Face](https://img.shields.io/badge/WiroAI%20--%20Huggingface-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/WiroAI)
-[![CivitAI](https://img.shields.io/badge/WiroAI%20--%20CivitAI-1E90FF?style=for-the-badge&logo=civitai&logoColor=white)](https://civitai.com/user/wiroai)
+[![CivitAI](https://img.shields.io/badge/Reference%20--%20CivitAI-1E90FF?style=for-the-badge&logo=civitai&logoColor=white)](https://civitai.com/user/wiroai)
 ![GitHub Followers](https://img.shields.io/github/followers/mehmetcantozlu?style=social)
 
 ### 🌎 Connect with me  
