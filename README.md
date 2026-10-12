@@ -6,7 +6,7 @@ Welcome to my GitHub! I specialize in **Generative AI**. Passionate about traini
 - 🎯 Interests: **Stable Diffusion, SDXL, SD, SD3.5, FLUX, AI Agents, RAG, LLMs, LoRA, Dreambooth and more**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mehmetcan-tozlu/) [Email](mailto:mcantozlu@gmail.com)
 
-### ⚡ GitHub Stats
+## ⚡ GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehmetcantozlu&theme=radical" alt="Profile Details" />
@@ -14,8 +14,7 @@ Welcome to my GitHub! I specialize in **Generative AI**. Passionate about traini
   <img src="https://streak-stats.demolab.com/?user=mehmetcantozlu&theme=radical&v=2" alt="GitHub Streak" />
 </p>
 
-
-### 🛠 Tech Stack  
+## 🛠 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -32,6 +31,6 @@ Welcome to my GitHub! I specialize in **Generative AI**. Passionate about traini
 [![CivitAI](https://img.shields.io/badge/Reference%20--%20CivitAI-1E90FF?style=for-the-badge&logo=civitai&logoColor=white)](https://civitai.com/user/wiroai)
 ![GitHub Followers](https://img.shields.io/github/followers/mehmetcantozlu?style=social)
 
-### 🌎 Connect with me  
+## 🌎 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetcan-tozlu/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcantozlu@gmail.com)
