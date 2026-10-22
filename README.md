@@ -2,8 +2,8 @@
 
 Welcome to my GitHub! I specialize in **Generative AI**. Passionate about training **custom AI models**, working on **Fine-Tune**, **QLoRA**, **Prepare Train Dataset**, **SFT**, **CFT**, **LoRA**, **Dreambooth**, **Vision Models**, **FLUX**, **FLUX Train**, **LLMs**,  **AI Agent**, **RAG** and etc. to push AI capabilities forward.
 
-- 🔭 I’m currently working on: **AI Agents, RAG, Image Generative and Image Generative Models Fine Tunes**
-- 🎯 Interests: **Stable Diffusion, SDXL, SD, SD3.5, FLUX, AI Agents, RAG, LLMs, LoRA, Dreambooth and more**
+- 🔭 I’m currently working on: **AI Agents, RAG, LLMs and LLM Models Trains, Image Generative and Image Generative Models Fine Tunes**
+- 🎯 Interests: **RAG, LLMs, AI Agents, Stable Diffusion, FLUX, LoRA, Dreambooth and more**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mehmetcan-tozlu/) [Email](mailto:mcantozlu@gmail.com)
 
 ## ⚡ GitHub Stats
